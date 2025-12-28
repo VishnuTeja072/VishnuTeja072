@@ -1,7 +1,17 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>AI/ML projects including Fake News Detection using Transformers (BERT/IndicBERT), LSTM & RNN, and end-to-end ML app deployments.<br>👯 I’m looking to collaborate on<br>AI/ML research projects, NLP, Computer Vision, Generative AI, and impactful real-world ML applications.<br>🤝 I’m looking for help with<br>Advanced model optimization, confidence & uncertainty metrics in ML, scalable deployments, and research publication guidance.<br>🌱 I’m currently learning<br>Core CS subjects, DSA, C programming, Deep Learning, LLMs, and production-ready ML system design.<br>💬 Ask me about<br>Machine Learning, NLP, Fake News Detection, Transformers, research-oriented projects, and AI project structuring.<br>⚡ Fun fact<br>I don’t just build projects—I make sure I understand why every line of code exists 🚀<br><br>
+🔭 I’m currently working on<br>AI/ML projects including Fake News Detection using Transformers (BERT/IndicBERT), LSTM & RNN, and end-to-end ML app deployments.<br>
+
+👯 I’m looking to collaborate on<br>AI/ML research projects, NLP, Computer Vision, Generative AI, and impactful real-world ML applications.<br>
+
+🤝 I’m looking for help with<br>Advanced model optimization, confidence & uncertainty metrics in ML, scalable deployments, and research publication guidance.<br>
+
+🌱 I’m currently learning<br>Core CS subjects, DSA, C programming, Deep Learning, LLMs, and production-ready ML system design.<br>
+
+💬 Ask me about<br>Machine Learning, NLP, Fake News Detection, Transformers, research-oriented projects, and AI project structuring.<br>
+
+⚡ Fun fact<br>I don’t just build projects—I make sure I understand why every line of code exists 🚀<br><br>
 
 
 ## 🌐 Socials:
