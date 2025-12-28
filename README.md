@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Teja</h1>
-<h3 align="center">AI/ML Enthusiast • Research-Oriented Developer • M.Tech CSE</h3>
+<h3 align="center">AI/ML Enthusiast • Research-Oriented Developer • M.Tech CSE(AI&ML)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-teja-09533b296/">
@@ -45,8 +45,6 @@ Real-time speech processing and Indian language translation using NLP models.
 
 🔹 **AI-Powered Resume–JD Matcher**  
 NLP-based skill matching and relevance scoring system.
-
-*(Pin these repositories on your profile for maximum impact)*
 
 ---
 
